@@ -1,0 +1,70 @@
+-- phpMyAdmin SQL Dump
+-- version 5.2.0
+-- https://www.phpmyadmin.net/
+--
+-- 主機： 127.0.0.1
+-- 產生時間： 2022-06-21 06:39:57
+-- 伺服器版本： 10.4.24-MariaDB
+-- PHP 版本： 8.1.6
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- 資料庫： `a1093325`
+--
+
+-- --------------------------------------------------------
+
+--
+-- 資料表結構 `uuser`
+--
+
+CREATE TABLE `uuser` (
+  `num` int(11) NOT NULL,
+  `name` varchar(20) NOT NULL,
+  `pwd` varchar(20) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- 傾印資料表的資料 `uuser`
+--
+
+INSERT INTO `uuser` (`num`, `name`, `pwd`) VALUES
+(1, 'shao', '318'),
+(2, 'a1093301', '1093301'),
+(3, 'a1093302', '1093302'),
+(4, 'a1093303', '1093303'),
+(5, 'a1093304', '1093304'),
+(6, 'a1093305', '1093305'),
+(7, 'a1093306', '1093306'),
+(8, 'a1093307', '1093307'),
+(9, 'a1093308', '1093308'),
+(10, 'a1093309', '1093309'),
+(11, 'a1093310', '1093310'),
+(12, 'a1093311', '1093311'),
+(13, 'a1093312', '1093312'),
+(14, 'a1093313', '1093313'),
+(15, 'a1093314', '1093314'),
+(16, 'a1093315', '1093315'),
+(17, 'a1093316', '1093316'),
+(18, 'a1093317', '1093317'),
+(19, 'a1093318', '1093318'),
+(20, 'a1093319', '1093319'),
+(21, 'a1093320', '1093320'),
+(22, 'a1093321', '1093321'),
+(23, 'a1093322', '1093322'),
+(24, 'a1093323', '1093323'),
+(25, 'a1093324', '1093324');
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
