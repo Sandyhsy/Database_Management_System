@@ -1,4 +1,19 @@
-# Database Management System 資料庫
+# Database Management System 
+
+## Assignment Goals
+The website must include features for browsing, searching, deleting, and adding.
+
+## Implementation Concept
+My theme is a website that introduces cat breeds, including information on common genetic diseases in cats and a directory of animal hospitals across Taiwan for users to explore. On the user interface, visitors can search for cat breeds and inquire about the locations of animal hospitals. On the admin interface, there are functionalities to search for cat breeds. Additionally, administrators can add or delete information about cat breeds and animal hospitals, facilitating easy updates to the website.
+
+## Web Design Explanation Video
+Video Link: https://youtu.be/qtAgQeXKyII
+
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1681743410/video_to_markdown/images/youtube--qtAgQeXKyII-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/qtAgQeXKyII "")
+
+
+
+# 資料庫管理
 
 ## 作業目標
 須具備：瀏覽、查詢、刪除和新增功能。
