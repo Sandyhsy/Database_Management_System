@@ -4,7 +4,7 @@
 The website must include features for browsing, searching, deleting, and adding.
 
 ## Implementation Concept
-My theme is a website that introduces cat breeds, including information on common genetic diseases in cats and a directory of animal hospitals across Taiwan for users to explore. On the user interface, visitors can search for cat breeds and inquire about the locations of animal hospitals. On the admin interface, there are functionalities to search for cat breeds. Additionally, administrators can add or delete information about cat breeds and animal hospitals, facilitating easy updates to the website.
+The focus of my website revolves around the presentation of various cat breeds, accompanied by comprehensive details regarding prevalent genetic diseases in cats. Moreover, it encompasses a directory of animal hospitals situated across Taiwan, enabling users to delve into this realm. The user interface offers visitors the convenience of searching for specific cat breeds and inquiring about the whereabouts of animal hospitals. Conversely, the admin interface provides administrators with the ability to conduct searches for cat breeds. Furthermore, administrators possess the authority to effortlessly incorporate or remove information about cat breeds and animal hospitals, thereby facilitating seamless updates to the website.
 
 ## Web Design Explanation Video
 Video Link: https://youtu.be/qtAgQeXKyII
